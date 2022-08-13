@@ -13,7 +13,6 @@ Script de criação de usuários e grupos de trablho no servidor, estudos em 13 
 1. Abrir terminal do linux;
 2. Executar o arquivo iac_cria_usuarios.sh ( ./iac_cria_usuarios.sh );
 3. Executar o arquivo iac_cria_convidados.sh ( ./iac_cria_convidados.sh );
-4. Acessar o endereço ( http://localhost/ );
 
 ## Links Úteis
 
